@@ -1,0 +1,8 @@
+icdar2015/train/
+icdar2015/test/
+icdar2015/train.txt
+icdar2015/test.txt
+ICDAR2019-LSVT/train/
+ICDAR2019-LSVT/val/
+ICDAR2019-LSVT/train.txt
+ICDAR2019-LSVT/val.txt
